@@ -14,5 +14,5 @@ export class AppController {
   @Get('exemplo')
   getExemplo(): string {
     return 'Exemplo de rota';
-    }
+  }
 }
